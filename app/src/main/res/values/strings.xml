@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question1">What is full form of SDK?</string>
+    <string name="question2">Where should images be stored in an android project?</string>
+    <string name="question3">Which of the following defines the color of navigation bar?</string>
+    <string name="question4">Which is the correct unit for fonts in android?</string>
+    <string name="question5">What is wrong with above code?</string>
+    <string name="question6">Which is the correct layout order for this design?</string>
+    <string name="question7">Which do you mean by ADB?</string>
+    <string name="question8">layout_toRightOf applies to which layout?</string>
+    <string name="question9">Which method helps you to get instance of views defined in activity_main.xml?</string>
+    <string name="question10">Which variable helps you access android resources?</string>
+
+    <string name="question1_option1">Solution Developer Kit</string>
+    <string name="question1_option2">Software Deployment Kit</string>
+    <string name="question1_option3">Software Developer Kit</string>
+    <string name="question1_option4">Software Development Kit</string>
+    <string name="question2_option1">assets</string>
+    <string name="question2_option2">drawable</string>
+    <string name="question2_option3">background</string>
+    <string name="question2_option4">images</string>
+
+    <string name="question3_option1">colorPrimary</string>
+    <string name="question3_option2">colorPrimaryDark</string>
+    <string name="question3_option3">primaryColorDark</string>
+    <string name="question3_option4">None of the above</string>
+
+    <string name="question4_option1">dp</string>
+    <string name="question4_option2">pt</string>
+    <string name="question4_option3">sp</string>
+    <string name="question4_option4">cm</string>
+
+    <string name="question6_option1">RelativeLayout->LinearLayout->LinearLayout</string>
+    <string name="question6_option2">LinearLayout->RelativeLayout->LinearLayout</string>
+    <string name="question6_option3">RelativeLayout->LinearLayout</string>
+    <string name="question6_option4">None of the above</string>
+
+    <string name="question5_option1">Variable used, but not initalized</string>
+    <string name="question5_option2">Variable used, but not declared in the scope</string>
+    <string name="question5_option3">There is no setText() method for the variable</string>
+    <string name="question5_option4">Syntax Error</string>
+
+    <string name="question7_option1">Android Device Bridge</string>
+    <string name="question7_option2">Android Debug Bridge</string>
+    <string name="question7_option3">Android Development Bridge</string>
+    <string name="question7_option4">None of the above</string>
+
+    <string name="question8_option1">RelativeLayout</string>
+    <string name="question8_option2">LinearLayout</string>
+    <string name="question8_option3">ConstrainedLayout</string>
+    <string name="question8_option4">None of the above</string>
+
+    <string name="question9_option1">findelementbyid()</string>
+    <string name="question9_option2">findViewByID()</string>
+    <string name="question9_option3">findViewByName()</string>
+    <string name="question9_option4">findViewById()</string>
+
+    <string name="question10_option1">Resources</string>
+    <string name="question10_option2">resources</string>
+    <string name="question10_option3">R</string>
+    <string name="question10_option4">r</string>
+
+    <string name="question_no_1">Question 1</string>
+    <string name="question_no_2">Question 2</string>
+    <string name="question_no_3">Question 3</string>
+    <string name="question_no_4">Question 4</string>
+    <string name="question_no_5">Question 5</string>
+    <string name="question_no_6">Question 6</string>
+    <string name="question_no_7">Question 7</string>
+    <string name="question_no_8">Question 8</string>
+    <string name="question_no_9">Question 9</string>
+    <string name="question_no_10">Question 10</string>
+
+    <string name="submitResult">Submit Quiz</string>
+
+    <string name="your_score">Your score is</string>
+</resources>
