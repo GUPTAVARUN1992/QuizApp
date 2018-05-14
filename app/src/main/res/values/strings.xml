@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quiz</string>
+    <string name="app_name">Android Quiz</string>
     <string name="question1">What is full form of SDK?</string>
     <string name="question2">Where should images be stored in an android project?</string>
     <string name="question3">Which of the following defines the color of navigation bar?</string>
